@@ -1,4 +1,4 @@
-#  3-Tier Application Infrastructure using Terraform on AWS 🚀
+#  3-Tier Application Infrastructure using Terraform on AWS 
 
 ##  Project Overview
 I have created highly scalable and secure 3-tier architecture on AWS using Terraform.
@@ -17,7 +17,7 @@ I have created highly scalable and secure 3-tier architecture on AWS using Terra
 
 ---
 
-## 🏗️ Architecture Diagram
+##  Architecture Diagram
 (Add your diagram image here)
 
 ![Architecture Diagram](./architecture.png)
@@ -52,7 +52,7 @@ project/
 └── .gitignore
 ```
 
-## 🔐 Key Features
+##  Key Features
 - Modular Terraform design  
 - Reusable infrastructure components  
 - Secure networking with private/public subnets  
@@ -71,7 +71,7 @@ project/
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Add CI/CD pipeline (GitHub Actions / Jenkins)  
 - Implement remote backend (S3 + DynamoDB)  
 - Add monitoring (CloudWatch)  
@@ -79,7 +79,7 @@ project/
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 - Terraform module structuring  
 - AWS networking (VPC, subnets, NAT Gateway)  
 - Debugging real-world infrastructure issues  
