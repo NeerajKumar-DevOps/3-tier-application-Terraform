@@ -14,20 +14,11 @@ As per my experience and knowledge i have created this shopping app project. I w
 ├── README.md
 ```
 
-### 1. Project Infrastructure (One-Time Setup)
-These resources are created once and reused:
-- VPC (Network)
-- Subnets
-- Security Groups
-- Internet Gateway (IGW)
-- NAT Gateway (NGW)
-- Route Tables
+### 1. Project infra - these are one time infra. network, sg group, igw, ngw etc.
+ (One-Time Setup)
 
-### 2. Application Infrastructure (Dynamic)
-These resources change based on requirements and are parameterized using variables:
-- EC2 Instances
-- S3 Buckets
-- Databases
+### 2. application infra - these will change every time as per requirement so we will create it as variables, ec2, s3, db etc.
+ (Dynamic)
 
 ---
 
